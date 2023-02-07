@@ -6,7 +6,6 @@
 .bg-color-selector {
   width: 100px;
   height: 20px;
-  padding: 0.2em;
   border: 1px solid white;
   cursor: pointer;
   display: flex;

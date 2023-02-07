@@ -4,7 +4,7 @@ let app = {
     'bisque',
     'chocolate',
     'honeydew',
-    'lightsamon'
+    'lightsalmon'
   ],
 
   contentArea: document.querySelector('.content'),
@@ -25,7 +25,7 @@ let app = {
     let input = document.createElement('input');
     input.classList.add('bg-color-form-input');
     input.type = 'text';
-    input.placeholder = 'Couleur CSS';
+    input.placeholder = 'Ajoute ta couleur CSS';
 
     form.appendChild(input);
     app.contentArea.appendChild(form);
