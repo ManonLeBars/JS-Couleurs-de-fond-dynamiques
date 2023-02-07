@@ -1,8 +1,10 @@
 let app = {
   colors: [
-    'lightsteelblue',
-    'palegreen',
-    'crimson'
+    'tomato',
+    'bisque',
+    'chocolate',
+    'honeydew',
+    'lightsamon'
   ],
 
   contentArea: document.querySelector('.content'),
